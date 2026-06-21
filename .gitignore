@@ -14,3 +14,4 @@
 /src
 /venv
 /.vscode
+**/__pycache__/
